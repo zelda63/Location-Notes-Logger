@@ -2,7 +2,7 @@
 A simple Android app built using Java that allows user to select a location on map and enter notes for it.
 
 # Installation
-* Clone the project*
+* Clone the project
 * Navgate to and open app/res/values/google_maps_api.xml and enter your Google Maps API Key where it says "Your Google Maps API Key goes here"
 * Run the app on an AVD or install it on an android device
 
