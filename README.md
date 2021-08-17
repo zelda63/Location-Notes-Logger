@@ -1,6 +1,12 @@
 # Location Notes Logger
 A simple Android app built using Java that allows user to select a location on map and enter notes for it.
 
+# How to get your Google Maps API Key?
+* Go to https://console.cloud.google.com/google/maps-apis/
+* Click on Credentials on the left.
+* On top, click on Create Credentials and select API key.
+* Your API Key will be generated. Now you can copy it.
+
 # Installation
 * Clone the project
 * Navgate to and open app/res/values/google_maps_api.xml and enter your Google Maps API Key where it says "Your Google Maps API Key goes here"
